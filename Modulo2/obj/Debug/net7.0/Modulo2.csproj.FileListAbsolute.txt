@@ -1,0 +1,15 @@
+C:\Code Folder\.NET Course\Modulo2\bin\Debug\net7.0\Modulo2.exe
+C:\Code Folder\.NET Course\Modulo2\bin\Debug\net7.0\Modulo2.deps.json
+C:\Code Folder\.NET Course\Modulo2\bin\Debug\net7.0\Modulo2.runtimeconfig.json
+C:\Code Folder\.NET Course\Modulo2\bin\Debug\net7.0\Modulo2.dll
+C:\Code Folder\.NET Course\Modulo2\bin\Debug\net7.0\Modulo2.pdb
+C:\Code Folder\.NET Course\Modulo2\obj\Debug\net7.0\Modulo2.csproj.AssemblyReference.cache
+C:\Code Folder\.NET Course\Modulo2\obj\Debug\net7.0\Modulo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Folder\.NET Course\Modulo2\obj\Debug\net7.0\Modulo2.AssemblyInfoInputs.cache
+C:\Code Folder\.NET Course\Modulo2\obj\Debug\net7.0\Modulo2.AssemblyInfo.cs
+C:\Code Folder\.NET Course\Modulo2\obj\Debug\net7.0\Modulo2.csproj.CoreCompileInputs.cache
+C:\Code Folder\.NET Course\Modulo2\obj\Debug\net7.0\Modulo2.dll
+C:\Code Folder\.NET Course\Modulo2\obj\Debug\net7.0\refint\Modulo2.dll
+C:\Code Folder\.NET Course\Modulo2\obj\Debug\net7.0\Modulo2.pdb
+C:\Code Folder\.NET Course\Modulo2\obj\Debug\net7.0\Modulo2.genruntimeconfig.cache
+C:\Code Folder\.NET Course\Modulo2\obj\Debug\net7.0\ref\Modulo2.dll
