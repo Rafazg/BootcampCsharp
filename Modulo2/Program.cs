@@ -1,12 +1,8 @@
 ﻿using Modulo2.models;
 
-Pessoa p1 = new Pessoa();
-p1.Nome = "Rafael";
-p1.Sobrenome = "Silva";
+Pessoa p1 = new(nome:"Rafael", sobrenome:"Silva");
 
-Pessoa p2 = new Pessoa();
-p2.Nome = "Isabela";
-p2.Sobrenome = "Castro";
+Pessoa p2 = new(nome:"Isabela", sobrenome:"Castro");
 
 Curso ingles = new Curso();
 ingles.Nome = "Inglês";
