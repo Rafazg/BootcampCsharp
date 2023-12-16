@@ -1,0 +1,15 @@
+C:\Code Folder\.NET Course\LeitorDeArquivos\bin\Debug\net7.0\LeitorDeArquivos.exe
+C:\Code Folder\.NET Course\LeitorDeArquivos\bin\Debug\net7.0\LeitorDeArquivos.deps.json
+C:\Code Folder\.NET Course\LeitorDeArquivos\bin\Debug\net7.0\LeitorDeArquivos.runtimeconfig.json
+C:\Code Folder\.NET Course\LeitorDeArquivos\bin\Debug\net7.0\LeitorDeArquivos.dll
+C:\Code Folder\.NET Course\LeitorDeArquivos\bin\Debug\net7.0\LeitorDeArquivos.pdb
+C:\Code Folder\.NET Course\LeitorDeArquivos\obj\Debug\net7.0\LeitorDeArquivos.csproj.AssemblyReference.cache
+C:\Code Folder\.NET Course\LeitorDeArquivos\obj\Debug\net7.0\LeitorDeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Folder\.NET Course\LeitorDeArquivos\obj\Debug\net7.0\LeitorDeArquivos.AssemblyInfoInputs.cache
+C:\Code Folder\.NET Course\LeitorDeArquivos\obj\Debug\net7.0\LeitorDeArquivos.AssemblyInfo.cs
+C:\Code Folder\.NET Course\LeitorDeArquivos\obj\Debug\net7.0\LeitorDeArquivos.csproj.CoreCompileInputs.cache
+C:\Code Folder\.NET Course\LeitorDeArquivos\obj\Debug\net7.0\LeitorDeArquivos.dll
+C:\Code Folder\.NET Course\LeitorDeArquivos\obj\Debug\net7.0\refint\LeitorDeArquivos.dll
+C:\Code Folder\.NET Course\LeitorDeArquivos\obj\Debug\net7.0\LeitorDeArquivos.pdb
+C:\Code Folder\.NET Course\LeitorDeArquivos\obj\Debug\net7.0\LeitorDeArquivos.genruntimeconfig.cache
+C:\Code Folder\.NET Course\LeitorDeArquivos\obj\Debug\net7.0\ref\LeitorDeArquivos.dll
