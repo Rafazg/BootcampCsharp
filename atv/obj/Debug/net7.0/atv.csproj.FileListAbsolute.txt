@@ -1,0 +1,15 @@
+C:\Code Folder\.NET Course\atv\bin\Debug\net7.0\atv.exe
+C:\Code Folder\.NET Course\atv\bin\Debug\net7.0\atv.deps.json
+C:\Code Folder\.NET Course\atv\bin\Debug\net7.0\atv.runtimeconfig.json
+C:\Code Folder\.NET Course\atv\bin\Debug\net7.0\atv.dll
+C:\Code Folder\.NET Course\atv\bin\Debug\net7.0\atv.pdb
+C:\Code Folder\.NET Course\atv\obj\Debug\net7.0\atv.csproj.AssemblyReference.cache
+C:\Code Folder\.NET Course\atv\obj\Debug\net7.0\atv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Folder\.NET Course\atv\obj\Debug\net7.0\atv.AssemblyInfoInputs.cache
+C:\Code Folder\.NET Course\atv\obj\Debug\net7.0\atv.AssemblyInfo.cs
+C:\Code Folder\.NET Course\atv\obj\Debug\net7.0\atv.csproj.CoreCompileInputs.cache
+C:\Code Folder\.NET Course\atv\obj\Debug\net7.0\atv.dll
+C:\Code Folder\.NET Course\atv\obj\Debug\net7.0\refint\atv.dll
+C:\Code Folder\.NET Course\atv\obj\Debug\net7.0\atv.pdb
+C:\Code Folder\.NET Course\atv\obj\Debug\net7.0\atv.genruntimeconfig.cache
+C:\Code Folder\.NET Course\atv\obj\Debug\net7.0\ref\atv.dll
