@@ -1,6 +1,7 @@
 ﻿using Modulo3.models;
+using Modulo3.models.Interfaces;
 
-Corrente c = new Corrente();
+ICalculadora calc = new Calculadora();
 
-c.Creditar(500);
-c.ExibirSaldo();
+Console.WriteLine(calc.Multiplicar(10, 55));
+
