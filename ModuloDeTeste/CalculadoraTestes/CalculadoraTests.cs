@@ -15,10 +15,15 @@ public class CalculadoraTestes
     [Fact]
     public void DeveSomar5Com10ERetornar15()
     {
-        // Arrange
+        // Arrange: Cenário com as variáveis que iremos usar.
+        int num1 = 5;
+        int num2 = 10;
 
-        // Act
-        //Assert
+        // Act: Ação que o código deve realizar.
+        int resultado = _calc.Somar(num1, num2);
+
+        //Assert: Validar se o resultado esperado é o correto.
+        Assert.Equal(15, resultado);    
 
     }
 }
